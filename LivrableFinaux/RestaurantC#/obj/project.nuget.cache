@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "qJuEpQsiXMhz6QDry1dW076uyNr1uj0Ox9UC6DMK1Z44WbOV02Kpu7bxgj6vBU8Fb23k9kkK5NaHHhRc859ZXA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\client\\Documents\\Cours\\X3\\Project\\Programmation système et POO\\ProjetRestaurant\\dd.docx\\LivrableFinaux\\RestaurantC#\\Pacman.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package MonoGame.Content.Builder.Task introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : Microsoft Visual Studio Offline Packages",
+      "libraryId": "MonoGame.Content.Builder.Task",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package MonoGame.Framework.DesktopGL introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : Microsoft Visual Studio Offline Packages",
+      "libraryId": "MonoGame.Framework.DesktopGL",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
